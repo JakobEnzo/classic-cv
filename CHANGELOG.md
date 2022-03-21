@@ -45,7 +45,6 @@
 - add Google Map with [GMaps](https://hpneo.github.io/gmaps/) 0.4.16 - MIT 
 - add Google Map Style - `Subtle Grayscale` by [Paulo Ávila](https://github.com/demoive/) - CC BY-SA 3.0
 - add Lightbox with [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/) 1.0.0 - MIT
-- add Dynamic copyright year
 - add Preload
 - add 6 header styles
     - header-classic
