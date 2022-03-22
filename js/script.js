@@ -132,7 +132,7 @@ jQuery( document ).ready(function() {
     setWindowScrollFunction();
     setGoToTopBtn();
     setContactFormPanelBtn();
-    setDynamicCopyrightYear();
+    // setDynamicCopyrightYear();
 
     // setPreload();
   }

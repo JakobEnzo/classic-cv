@@ -190,12 +190,12 @@ jQuery( document ).ready(function () {
   var initialVendorScript = new function () {
     
     setBootstrapTooltip();
-    setPieChart( '.pie-chart' );
+    // setPieChart( '.pie-chart' );
     setLightbox();
     setFormValidationNotifyByModal( '#contact-form-second' );
     setFormValidationNotifyByAlert();
     
-    // setGoogleMap( 40.712784, -74.005941, 13 ); // New York
-    setGoogleMap( 13.7246005, 100.6331108, 10 ); // Bangkok
+    // don't use integrated gmaps, because it doesn't work properly
+    // setGoogleMap( 13.7246005, 100.6331108, 10 ); // Bangkok
   }
 });
